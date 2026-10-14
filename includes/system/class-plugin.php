@@ -12,9 +12,7 @@
 namespace Vibes\System;
 
 /**
- * Define the plugin statistics functionality.
- *
- * Handles all user plugin statistics and detection.
+ * The class responsible to handle plugin statistics and detection.
  *
  * @package System
  * @author  Pierre Lannoy <https://pierre.lannoy.fr/>.
